@@ -1,0 +1,14 @@
+E:\invent\beecrowdCs\1007\bin\Debug\net6.0\1007.exe
+E:\invent\beecrowdCs\1007\bin\Debug\net6.0\1007.deps.json
+E:\invent\beecrowdCs\1007\bin\Debug\net6.0\1007.runtimeconfig.json
+E:\invent\beecrowdCs\1007\bin\Debug\net6.0\1007.dll
+E:\invent\beecrowdCs\1007\bin\Debug\net6.0\1007.pdb
+E:\invent\beecrowdCs\1007\obj\Debug\net6.0\1007.GeneratedMSBuildEditorConfig.editorconfig
+E:\invent\beecrowdCs\1007\obj\Debug\net6.0\1007.AssemblyInfoInputs.cache
+E:\invent\beecrowdCs\1007\obj\Debug\net6.0\1007.AssemblyInfo.cs
+E:\invent\beecrowdCs\1007\obj\Debug\net6.0\1007.csproj.CoreCompileInputs.cache
+E:\invent\beecrowdCs\1007\obj\Debug\net6.0\1007.dll
+E:\invent\beecrowdCs\1007\obj\Debug\net6.0\refint\1007.dll
+E:\invent\beecrowdCs\1007\obj\Debug\net6.0\1007.pdb
+E:\invent\beecrowdCs\1007\obj\Debug\net6.0\1007.genruntimeconfig.cache
+E:\invent\beecrowdCs\1007\obj\Debug\net6.0\ref\1007.dll
