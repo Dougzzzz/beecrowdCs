@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\1848\\1848\\1848.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\beeCrowdcs\\1848\\1848.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\1848\\1848\\1848.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\beeCrowdcs\\1848\\1848.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\1848\\1848\\1848.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\beeCrowdcs\\1848\\1848.csproj",
         "projectName": "1848",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\1848\\1848\\1848.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\beeCrowdcs\\1848\\1848.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\1848\\1848\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\beeCrowdcs\\1848\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\1043\1043\obj\Debug\net6.0\1043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\1043\1043\obj\Debug\net6.0\1043.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\1043\1043\obj\Debug\net6.0\1043.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\1043\1043\obj\Debug\net6.0\1043.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\1043\1043\bin\Debug\net6.0\1043.exe
+C:\Users\Usuario\source\repos\1043\1043\bin\Debug\net6.0\1043.deps.json
+C:\Users\Usuario\source\repos\1043\1043\bin\Debug\net6.0\1043.runtimeconfig.json
+C:\Users\Usuario\source\repos\1043\1043\bin\Debug\net6.0\1043.dll
+C:\Users\Usuario\source\repos\1043\1043\bin\Debug\net6.0\1043.pdb
+C:\Users\Usuario\source\repos\1043\1043\obj\Debug\net6.0\1043.dll
+C:\Users\Usuario\source\repos\1043\1043\obj\Debug\net6.0\refint\1043.dll
+C:\Users\Usuario\source\repos\1043\1043\obj\Debug\net6.0\1043.pdb
+C:\Users\Usuario\source\repos\1043\1043\obj\Debug\net6.0\1043.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\1043\1043\obj\Debug\net6.0\ref\1043.dll
